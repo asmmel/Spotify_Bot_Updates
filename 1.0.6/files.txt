@@ -1,0 +1,9 @@
+config.ini
+config_manager.py
+constants.py
+main.py
+public_key.pem
+spotify_bot_gui.py
+spotify_bot_worker.py
+styles.qss
+update_manager.py
